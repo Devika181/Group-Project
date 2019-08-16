@@ -4,3 +4,8 @@ body {
 .starter-template {
   font color="red"
 }
+
+
+.pull-right {
+    margin-left: 750px;
+}
