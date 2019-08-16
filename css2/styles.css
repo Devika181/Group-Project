@@ -9,3 +9,11 @@ body {
 .pull-right {
     margin-left: 750px;
 }
+.font{
+  color: red;
+}
+}
+.font2{
+  color: red;
+  padding-color: grey;
+}
