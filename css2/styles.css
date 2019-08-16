@@ -1,0 +1,32 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  font color="red"
+}
+
+
+.pull-right {
+    margin-left: 750px;
+}
+.font{
+  color: red;
+  text-align: center;
+}
+}
+.contact{
+  color: red;
+  padding-color: grey;
+  text-align: center;
+}
+.color{
+ text-align: left;
+ color: red
+}
+.black{
+  color: black;
+  text-align: left;
+}
+.center{
+  text-align: center;
+}
