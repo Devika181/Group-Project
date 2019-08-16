@@ -9,9 +9,11 @@ body {
 .pull-right {
     margin-left: 750px;
 }
-.carosuel-conntrol-prev {
-  colour="black";
+.font{
+  color: red;
 }
-.carosuel-conntrol-next {
-  colour="black";
+}
+.font2{
+  color: red;
+  padding-color: grey;
 }
