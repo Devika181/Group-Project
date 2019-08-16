@@ -4,6 +4,8 @@ body {
 .starter-template {
   font color="red"
 }
-.form {
-  margin-left: 1000em;
+
+
+.pull-right {
+    margin-left: 750px;
 }
