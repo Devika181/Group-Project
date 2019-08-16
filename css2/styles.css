@@ -11,9 +11,22 @@ body {
 }
 .font{
   color: red;
+  text-align: center;
 }
 }
 .font2{
   color: red;
   padding-color: grey;
+  text-align: center;
+}
+.color{
+ text-align: left;
+ color: red
+}
+.black{
+  color: black;
+  text-align: left;
+}
+.center{
+  text-align: center;
 }
