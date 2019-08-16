@@ -9,3 +9,9 @@ body {
 .pull-right {
     margin-left: 750px;
 }
+.carosuel-conntrol-prev {
+  colour="black";
+}
+.carosuel-conntrol-next {
+  colour="black";
+}
